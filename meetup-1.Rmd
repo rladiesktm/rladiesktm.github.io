@@ -1,0 +1,17 @@
+---
+title: "R-Ladies Meetup"
+date: "9/25/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R-Ladies Kathmandu
+
+R-Ladies Kathmandu hosted meetup in September 25th, 2018.
+
+We talked about our shared mission, and how can we improve our R-Ladies Group at our place.
+
+![](meetings.jpg)
